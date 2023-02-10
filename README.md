@@ -2,7 +2,7 @@
 
 ## :thought_balloon: About me 
 :computer: Frontend developer  
-:mortar_board: 4th year university student. Specialty - software engineering  
+:mortar_board: 4th year university student. My major - software engineering  
 :purple_heart: Interested in music and basketball
 
 ## :wrench: Stack ##
